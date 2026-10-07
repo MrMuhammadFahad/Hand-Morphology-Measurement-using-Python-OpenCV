@@ -1,16 +1,16 @@
 # Hand Morphology Measurement using Python & OpenCV
 
-## 📌 Project Overview
+## Project Overview
 This project implements a computer vision-based system to analyze hand morphology from a high-resolution image. The system measures finger lengths and widths using manual point selection and performs statistical analysis on the extracted features.
 
-## 🛠 Technologies Used
+## Technologies Used
 - Python
 - OpenCV
 - NumPy
 - Matplotlib
 - LaTeX (for report documentation)
 
-## ⚙️ Features
+## Features
 - Image loading and preprocessing
 - Grayscale conversion
 - Manual mouse-based point selection
@@ -19,10 +19,10 @@ This project implements a computer vision-based system to analyze hand morpholog
 - Statistical analysis (average length and width)
 - Visualization of measurements
 
-## 📊 Measurements Extracted
+## Measurements Extracted
 - Length of each finger
 - Base width of each finger
 - Midpoint width of each finger
 - Average length and width calculations
 
-## 📁 Project Structure
+## Project Structure
